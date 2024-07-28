@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TryExcel5</string>
+    <string name="smartCount">SmartCount</string>
+    <string name="login">Login</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="start_npt">Start NPT</string>
+    <string name="stop_npt">Stop NPT</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name:</string>
+    <string name="rofiq_mia">Rofiq Mia</string>
+    <string name="id">ID:</string>
+    <string name="buyer">Buyer:</string>
+    <string name="role">Role:</string>
+    <string name="work_order">Work Order:</string>
+    <string name="style_code">Style Code:</string>
+    <string name="step_no">Step No:</string>
+    <string name="step_name">Step Name:</string>
+    <string name="chose_a_step">Chose a Step:</string>
+    <string name="total_qty">Total qty</string>
+    <string name="last_hr_s_qty">Last Hr\'s qty</string>
+    <string name="this_hr_s_qty">This Hr\'s qty</string>
+    <string name="today_s_qty">Today\'s qty</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
